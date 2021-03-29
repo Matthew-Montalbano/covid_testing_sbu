@@ -1,0 +1,24 @@
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 24px;
+  padding: 5px;
+}
+
+.page-title {
+  text-align: center;
+}
+
+.new-test-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.margin-button {
+  margin: 30px 0px 30px 0px;
+}

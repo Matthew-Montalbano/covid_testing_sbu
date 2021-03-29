@@ -1,0 +1,14 @@
+.edit-well-popup {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  width: 20%;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  background: rgb(175, 175, 175);
+  padding: 50px;
+  border-radius: 20px;
+  border: 5px solid black;
+}
